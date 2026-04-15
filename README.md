@@ -1,4 +1,4 @@
-# Multi-view-data
+# Multi-view datasets
 The datasets for multi-view clustering
 
 Common datasets can be found in a number of well-curated repositories. However, most of the data provided in these resources points to the raw data source, not pre-processed datasets. 
